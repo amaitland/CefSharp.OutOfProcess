@@ -11,7 +11,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="PInvoke.Kernel32" Version="0.7.104" />
+    <PackageReference Include="PInvoke.Kernel32" Version="0.7.124" />
     <PackageReference Include="PInvoke.User32" Version="0.7.124" />
     <PackageReference Include="StreamJsonRpc" Version="2.14.24" />
     <PackageReference Include="CefSharp.Common" Version="120.1.110" />
